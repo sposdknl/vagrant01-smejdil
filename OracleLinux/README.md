@@ -1,8 +1,6 @@
 # Install Zabbix Agent2 on OracleLinux
 Repositories for teaching purposes at SPOS DK
 
-![Ubuntu and ZabbixAgent2 OSY AI](../../../Images/osy-Ubuntu-ZabbixAgent2.webp)
-
 Repository pro vyuku na SPOS DK
 
 ## Automatická instalace Zabbix Agent2 na OS Oracle Linux

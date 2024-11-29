@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Unikatni hostname ubuntu (Lepší než hostname školní stanice)
+# Unikatni hostname OracleLinux (Lepší než hostname školní stanice)
 UNIQUE_HOSTNAME="oraclelinux-$(uuidgen)"
 SHORT_HOSTNAME=$(echo $UNIQUE_HOSTNAME | cut -d'-' -f1,2)
 

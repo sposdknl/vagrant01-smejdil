@@ -3,7 +3,7 @@
 # Aktualizace OS
 #sudo dnf update -y
 
-# Stažení balíčku pro instalaci zabbix repo
+# Stažení balíčku pro instalaci zabbix repo v OracleLinux
 sudo rpm -Uvh https://repo.zabbix.com/zabbix/6.0/rhel/9/x86_64/zabbix-release-latest.el9.noarch.rpm
 sudo dnf clean all 
 
